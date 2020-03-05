@@ -1,11 +1,9 @@
 ---
 title: Understanding the Foundations of Incident Response
 date: 2020-03-05
-math: true
-diagram: true
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+profile: false
 ---
 
 The foundations of building reliable systems including a good incident response plan, have to start with determining “Who is expected to respond to problems?” and “How do let them know?”.
@@ -19,6 +17,7 @@ The best place to start, is to design what is to establish roles, rosters, and r
 **Rotations :**A scheduled shift for individuals where they are *"on-call"* for a defined period of time. A 24 x n rotation where someone is the** Primary Responder**, for example.
 
 It's worth looking at each of these groups a little closer, so let's do that now.
+
 
 ## Resources
 

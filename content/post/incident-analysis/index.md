@@ -1,11 +1,9 @@
 ---
 title: Incident Analysis
 date: 2020-03-05
-math: true
-diagram: true
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+profile: false
 ---
 
 The post-incident review is where the idea of incidents begin to shift from things that are feared and avoided to things that can provide valuable information to a team and business.

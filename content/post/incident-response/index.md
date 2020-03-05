@@ -1,11 +1,9 @@
 ---
 title: Response Phase of an Incident
 date: 2020-03-05
-math: true
-diagram: true
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+profile: false
 ---
 
 Once our detection efforts have been configured to send actionable alerts to the people who build the systems, we need to make sure they are sending those alerts to the *right* people.
@@ -34,6 +32,7 @@ What action can we take to minimize or stop the impact? What are the repurcussio
 At some point we all need help. That could be access to an admin account, theories from subject matter experts, someone to amplify updates to a broader audience. Rarely are incidents viewed as a success if only a single person was involved.
 
 Regardless of the size of your response team, by isolating it as a phase in the incident lifecycle, we can examine this section of the timeline for improvements on how we coordinate our response. If it took an excessive amount of time for the engineering team to correct the payment processor problem simply because it took too long to find the right person, with the right tool, and with the appropriate level of access then there are some clear opportunities for improvement right there.
+
 
 ## Resources
 

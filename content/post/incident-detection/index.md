@@ -1,11 +1,9 @@
 ---
 title: Incident Detection
 date: 2020-03-05
-math: true
-diagram: true
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+profile: false  
 ---
 
 The methods used to determine when we have a problem have changed over the years.

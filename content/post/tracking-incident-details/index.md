@@ -1,11 +1,9 @@
 ---
 title: Tracking Incident Details
 date: 2020-03-05
-math: true
-diagram: true
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+profile: false
 ---
 
 Another thing we want to do, to address the challenges of Tailwind Traders and their incident response improvements is we want to be able to track:  

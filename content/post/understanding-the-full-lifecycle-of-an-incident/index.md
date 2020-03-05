@@ -1,11 +1,9 @@
 ---
 title: Understanding the Full Lifecycle of an Incident
 date: 2020-03-05
-math: true
-diagram: true
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+profile: false
 ---
 
 If we start to think of incidents as a normal part of a system, then we can also build some formality around the patterns and practices we inevitably see when people instinctually do what they do when something goes wrong.

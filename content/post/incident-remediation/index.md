@@ -1,11 +1,9 @@
 ---
 title: Incident Remediation
 date: 2020-03-05
-math: true
-diagram: true
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+profile: false
 ---
 
 The remediation phase is the blurriest of them all. A big reason is that sometimes there's no difference between what takes place during the response and an action intended to improve the situation (i.e. remediation step).

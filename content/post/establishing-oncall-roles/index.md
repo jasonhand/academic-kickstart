@@ -1,11 +1,9 @@
 ---
 title: Establishing On-call Roles
 date: 2020-03-05
-math: true
-diagram: true
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+profile: false
 ---
 
 Creating a repeatable response plan means establishing who does what when something goes wrong. We don't want there to be any question around who is supposed to be doing what.

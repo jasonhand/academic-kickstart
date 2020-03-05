@@ -1,11 +1,9 @@
 ---
 title: Incident Readiness
 date: 2020-03-05
-math: true
-diagram: true
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+profile: false
 ---
 
 During and after a post-incident review many ideas will surface around how to improve not only various aspects of each phase of the lifecycle but also how the team can improve in other areas. Communication for example. 

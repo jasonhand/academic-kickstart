@@ -1,11 +1,9 @@
 ---
 title: Primary Responder
 date: 2020-03-05
-math: true
-diagram: true
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+profile: false
 ---
 
 The first role we need to talk about is the “Primary Responder” – the Primary “On-call” engineer.
