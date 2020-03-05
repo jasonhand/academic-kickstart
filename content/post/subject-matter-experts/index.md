@@ -16,4 +16,4 @@ It’s quite common within on-call rosters to identify subject matter experts, s
 
 ## Next steps
 
-[Building On-call Rosters](2020-02-25-Building-Oncall-Rosters.html)
+[Building On-call Rosters](/post/building-oncall-rosters)

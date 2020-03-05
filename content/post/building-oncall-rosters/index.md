@@ -4,7 +4,7 @@ date: 2019-07-12
 math: true
 diagram: true
 image:
-  placement: 3
+  placement: 1
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
@@ -16,4 +16,4 @@ Rosters establish a framework around who is on-call at any given point. A roster
 
 ## Next steps
 
-[Building On-call Rotations](/content/post/building-oncall-rosters/2020-02-25-Building-Oncall-Rosters.md)
+[Building On-call Rotations](/post/building-oncall-rotations/)

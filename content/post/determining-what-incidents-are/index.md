@@ -64,4 +64,4 @@ Next we'll discuss the full lifecycle of an incident. From detection to analysis
 
 ## Next steps
 
-[Understanding the Full Lifecycle of An Incident](2020-02-25-Understanding-the-Full-Lifecycle-of-an-Incident.html)
+[Understanding the Full Lifecycle of An Incident](/post/understanding-the-full-lifecycle-of-an-incident)

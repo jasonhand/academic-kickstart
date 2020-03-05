@@ -16,4 +16,4 @@ The scribe’s role is to document the conversation in as much detail as possibl
 
 ## Next steps
 
-[Subject Matter Experts](2020-03-05-Subject-Matter-Experts.html)
+[Subject Matter Experts](/post/subject-matter-experts/)

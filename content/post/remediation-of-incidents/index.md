@@ -18,4 +18,4 @@ Now that we’ve covered the foundations of building a good incident response pl
 
 ## Next steps
 
-[Supplying Context & Guidance](2020-02-25-Supplying-Context-And-Guidance.html)
+[Supplying Context & Guidance](/post/supplying-context-and-guidance/)

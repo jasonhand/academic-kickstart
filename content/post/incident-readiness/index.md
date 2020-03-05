@@ -24,4 +24,4 @@ The bigger win that helps with our readiness efforts is that we have measurement
 
 [MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
 
-[Understanding the Foundations of Incident Response](2020-02-25-Understanding-The-Foundations-of-Incident-Response.html)
+[Understanding the Foundations of Incident Response](/post/understanding-the-foundations-of-incident-response/)

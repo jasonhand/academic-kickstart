@@ -26,4 +26,4 @@ And of course, there are many ways to customize shifts, especially for weekends 
 
 ## Next steps
 
-[Remediation of Incidents](2020-02-25-Remediation-Of-Incidents.html)
+[Remediation of Incidents](/post/remediation-of-incidents/)

@@ -40,4 +40,4 @@ This takes us to our next phase of the incident lifecycle - analysis.
 
 [MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
 
-[Analysis Phase of an Incident](2020-03-04-Analysis.html)
+[Analysis Phase of an Incident](/post/incident-analysis/)

@@ -26,4 +26,4 @@ It's worth looking at each of these groups a little closer, so let's do that now
 
 ## Next steps
 
-[Establishing Oncall Roles](2020-02-25-Establishing-Oncall-Roles.html)
+[Establishing Oncall Roles](/post/establishing-oncall-roles/  )

@@ -40,4 +40,4 @@ This takes us to our final phase of the incident lifecycle, readiness.
 
 [MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
 
-[Readiness Phase of an Incident](2020-03-04-Readiness.html)
+[Readiness Phase of an Incident](/post/incident-readiness)

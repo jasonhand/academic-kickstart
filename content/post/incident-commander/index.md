@@ -16,4 +16,4 @@ Another key role to identify, in many cases, is the incident commander. An incid
 
 ## Next steps
 
-[The Communication Coordinator](2020-03-05-Communication-Coordinator.html)
+[The Communication Coordinator](/post/communication-coordinator/)

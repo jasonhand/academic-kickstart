@@ -41,4 +41,4 @@ Let's touch on the detection phase just a little more in depth. This is often th
 
 ## Next steps
 
-[The Detection Phase of an Incident](2020-03-04-Detection.html)
+[The Detection Phase of an Incident](/post/incident-detection/)

@@ -39,4 +39,4 @@ Regardless of the size of your response team, by isolating it as a phase in the 
 
 [MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
 
-[Remediation Phase of an Incident](2020-03-04-Remediation.html)
+[Remediation Phase of an Incident](/post/incident-remediation/)

@@ -34,4 +34,4 @@ Let's take a closer look at each of these roles to better understand their place
 
 ## Next steps
 
-[The Primary Responder](2020-03-05-Primary-Responder.html)
+[The Primary Responder](/post/primary-responder/)

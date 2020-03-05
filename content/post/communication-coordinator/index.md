@@ -16,4 +16,4 @@ The Communication Coordinator is meant to be the person working in conjunction w
 
 ## Next steps
 
-[The Scribe](2020-03-05-Scribe.html)
+[The Scribe](/post/scribe/)

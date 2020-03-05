@@ -16,4 +16,4 @@ Where to start? How on-call engineers should escalate incidents? What metrics, t
 
 ## Next steps
 
-[Update Stakeholders](2020-02-25-Updating-Stakeholders.html)
+[Updating Stakeholders](/post/updating-stakeholders/)

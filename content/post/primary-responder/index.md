@@ -18,4 +18,4 @@ This person is expected to acknowledge their awareness of an incident once the a
 
 ## Next steps
 
-[The Secondary Responder](2020-03-05-Secondary-Responder.html)
+[The Secondary Responder](/post/secondary-responder/)
