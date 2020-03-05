@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Jason Hand
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Azure Cloud Advocate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Microsoft
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Jason Hand is an author and speaker on the subjects of site reliability engineering, incident management, post-incident analysis, and chatops. Co-organizer and supporter of several tech communities including DevOpsDays Rockies, Jason enjoys connecting story tellers and actionable ideas with those who are hungry to learn. Jason also loves to bring together ideas and expertise around building communities in tech through his podcast “Community Pulse”.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Site Reliability Engineering
+- Post-incident Reviews
+- Chatops
 
 education:
   courses:
@@ -47,13 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jasonhand
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jasonhand
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jason Hand is an author and speaker on the subjects of site reliability engineering, incident management, post-incident analysis, and chatops. Co-organizer and supporter of several tech communities including DevOpsDays Rockies, Jason enjoys connecting story tellers and actionable ideas with those who are hungry to learn. Jason also loves to bring together ideas and expertise around building communities in tech through his podcast “Community Pulse”.
