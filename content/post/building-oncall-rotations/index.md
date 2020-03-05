@@ -4,7 +4,7 @@ date: 2020-03-05
 math: true
 diagram: true
 image:
-  placement: 3
+  placement: 13
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
