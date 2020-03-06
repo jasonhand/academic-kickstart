@@ -14,4 +14,6 @@ Task: Webhook (started from Microsoft Teams) hits an Azure Function endpoint to 
 
 [MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
 
+## Next
+
 [Remediation Phase of an Incident](/post/incident-remediation/)
