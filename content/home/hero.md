@@ -43,4 +43,4 @@ hero_media = "hero-academic.png"
   icon = "book"
 +++
 
-For Incident Response
+For Monitoring, Incident Response, and more

@@ -29,7 +29,7 @@ What do we know *right now?*
 Once information has been obtained, we begin to theorize next best steps.
 What action can we take to minimize or stop the impact? What are the repurcussions of that action? Will something else go wrong? If we take one action, what result do we expect? In very brief moments we are creatively thinking through as many possible scenarios to restore service as we can. And then stack ranking them based on our own calculations on the probability of success.
 
-## Triage
+### Triage
 
 At some point we all need help. That could be access to an admin account, theories from subject matter experts, someone to amplify updates to a broader audience. Rarely are incidents viewed as a success if only a single person was involved.
 
