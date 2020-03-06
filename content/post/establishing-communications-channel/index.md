@@ -16,10 +16,6 @@ Using Logic App to create a workflow for responses (including Azure Boards, Azur
 
 >Task: Using Logic Apps
 
-## Resources
-
-[MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
-
 ## Next steps
 
 [Managing Tasks From Group Chat - Chatops](/post/managing-tasks-from-group-chat-chatops/)

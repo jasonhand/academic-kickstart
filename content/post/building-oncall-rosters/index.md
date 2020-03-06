@@ -10,10 +10,6 @@ editable: true
 
 Rosters establish a framework around who is on-call at any given point. A roster, or team, is made up of multiple engineers. Rosters can also contain multiple rotations. I'm testing out how to edit a page.
 
-## Resources
-
-[MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
-
 ## Next steps
 
 [Building On-call Rotations](/post/building-oncall-rotations/)

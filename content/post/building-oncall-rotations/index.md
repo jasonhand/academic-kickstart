@@ -20,10 +20,6 @@ Follow the sun shifts are nice for distributed teams. These allow for engineers 
 
 And of course, there are many ways to customize shifts, especially for weekends when engineers need more flexibility. Engineers should be able to hand off the role to someone when personal conflicts arise.
 
-## Resources
-
-[MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
-
 ## Next steps
 
 [Remediation of Incidents](/post/remediation-of-incidents/)

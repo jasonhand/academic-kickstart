@@ -35,9 +35,4 @@ At some point we all need help. That could be access to an admin account, theori
 
 Regardless of the size of your response team, by isolating it as a phase in the incident lifecycle, we can examine this section of the timeline for improvements on how we coordinate our response. If it took an excessive amount of time for the engineering team to correct the payment processor problem simply because it took too long to find the right person, with the right tool, and with the appropriate level of access then there are some clear opportunities for improvement right there.
 
-
-## Resources
-
-[MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
-
 [Remediation Phase of an Incident](/post/incident-remediation/)

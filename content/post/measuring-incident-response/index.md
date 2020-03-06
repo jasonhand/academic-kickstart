@@ -30,10 +30,6 @@ Most anyone who works with technology will agree that the complete prevention of
 
 Instead, we must do better at knowing when something is wrong and being able to respond to it in an effective way.
 
-## Resources
-
-[MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
-
 ## Next steps
 
 [Incident Remediation](/post/incident-remediation/)

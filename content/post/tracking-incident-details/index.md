@@ -38,10 +38,6 @@ And last...
 
 We may not have any notion of severity or impact and there is no place for us to find out how bad the problem really is, and who is affected. These are tough questions to answer if nothing is tracked.
 
-## Resources
-
-[MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
-
 ## Next steps
 
 [Measuring Incident Response](/post/measuring-incident-response/)

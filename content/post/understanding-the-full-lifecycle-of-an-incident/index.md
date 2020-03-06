@@ -35,10 +35,6 @@ Implementing knew knowledge and changes to improve and shorten the time and effe
 
 Let's touch on the detection phase just a little more in depth. This is often the best place to start improving your incident response practices. Solid monitoring is the foundation of building reliable systems.
 
-## Resources
-
-[MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
-
 ## Next steps
 
 [The Detection Phase of an Incident](/post/incident-detection/)

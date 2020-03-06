@@ -32,10 +32,6 @@ In conversations about what took place with the payment processor incident it is
 
 "How could we have detected this ... at all?" may be a better question.
 
-## Resources
-
-[MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
-
 ## Next steps
 
 [Response Phase of an Incident](/post/incident-response/)

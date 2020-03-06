@@ -36,10 +36,6 @@ Part of the advantage of examining incidents in phases means that regardless to 
 
 This takes us to our final phase of the incident lifecycle, readiness.
 
-## Resources
-
-[MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
-
 ## Next Steps
 
 [Readiness Phase of an Incident](/post/incident-readiness)

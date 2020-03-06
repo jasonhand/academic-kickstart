@@ -14,11 +14,6 @@ It's important that internal teams are aware of what's happening when an inciden
 
 We should be clear in presenting what we know, what is being done and what kind of expectations should they have in terms of when they're going to hear back from us?
 
-## Resources
-
-[Azure Functions Overview](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
-[MS Learn: Free Azure Function courses](https://docs.microsoft.com/en-us/learn/browse/?term=functions)
-
 ## Next steps
 
 [ChatOps](/post/managing-tasks-from-group-chat-chatops/)

@@ -58,10 +58,6 @@ We just need to change how we look at incidents.
 
 Next we'll discuss the full lifecycle of an incident. From detection to analysis and everything in between. When we start to view incidents through a new lense and begin analyzing for opportunities to learn, you'll begin to see your systems for what they are and why having a response plan in place makes sense.
 
-## Resources
-
-[MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
-
 ## Next steps
 
 [Understanding the Full Lifecycle of An Incident](/post/understanding-the-full-lifecycle-of-an-incident)
