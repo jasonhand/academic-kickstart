@@ -4,6 +4,7 @@ date: 2020-03-05
 image:
   placement: 3
 profile: false
+tags: ["phase", "incident"]
 ---
 
 Once our detection efforts have been configured to send actionable alerts to the people who build the systems, we need to make sure they are sending those alerts to the *right* people.

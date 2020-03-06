@@ -4,6 +4,7 @@ date: 2020-03-05
 image:
   placement: 3
 profile: false
+tags: ["rotations", "on-call"]
 ---
 
 A rotation is a scheduled shift. Engineers takes the “on-call” responsibility for their own specific recurring rotation. There are several types of shifts that you can create – some more common than others.

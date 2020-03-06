@@ -4,6 +4,7 @@ date: 2020-03-05
 image:
   placement: 3
 profile: false
+tags: ["role", "on-call"]
 ---
 
 Creating a repeatable response plan means establishing who does what when something goes wrong. We don't want there to be any question around who is supposed to be doing what.

@@ -3,7 +3,8 @@ title: Incident Detection
 date: 2020-03-05
 image:
   placement: 3
-profile: false  
+profile: false
+tags: ["phase", "incident"]
 ---
 
 The methods used to determine when we have a problem have changed over the years.

@@ -4,6 +4,7 @@ date: 2020-03-05
 image:
   placement: 3
 profile: false
+tags: ["incidents", "on-call"]
 ---
 
 If you search online for "Incident Response" a majority of what you'll find is information related to security threats and breaches. What doesn't show up in the results is stuff about how to properly respond to threats related to something else entirely. 
