@@ -4,7 +4,8 @@ date: 2020-03-05
 image:
   placement: 3
 profile: false
-tags: ["incidents", "on-call", "analysis"]
+tags: ["incidents", "on-call", "analysis", "phase"]
+editable: true
 ---
 
 The post-incident review is where the idea of incidents begin to shift from things that are feared and avoided to things that can provide valuable information to a team and business.

@@ -5,6 +5,7 @@ profile: false
 image:
   placement: 3
 tags: ["incidents"]
+editable: true
 ---
 
 The systems we work in eventually have problems. They are built, maintained, and supported by technolgists such as yourself. And when an issue inevitably occurs, someone needs to take action to restore services.

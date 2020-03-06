@@ -5,6 +5,7 @@ image:
   placement: 3
 profile: false
 tags: ["incidents", "tracking"]
+editable: true
 ---
 
 Another thing we want to do, to address the challenges of Tailwind Traders and their incident response improvements is we want to be able to track:  

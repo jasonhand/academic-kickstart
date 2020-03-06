@@ -5,6 +5,7 @@ image:
   placement: 3
 profile: false
 tags: ["phase", "incident"]
+editable: true
 ---
 
 During and after a post-incident review many ideas will surface around how to improve not only various aspects of each phase of the lifecycle but also how the team can improve in other areas. Communication for example. 

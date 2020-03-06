@@ -5,6 +5,7 @@ image:
   placement: 3
 profile: false
 tags: ["chatops", "on-call"]
+editable: true
 ---
 
 To address some of the challenges around how we communicate we also want to find a way to create a unique channel or space for engineers to discuss the details of the incident - a “conversation bridge” in our persistent group chat tool -which for Tailwind Traders is Microsoft Teams.  

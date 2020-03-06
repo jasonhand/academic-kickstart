@@ -5,6 +5,7 @@ image:
   placement: 3
 profile: false
 tags: ["phase", "incident"]
+editable: true
 ---
 
 The methods used to determine when we have a problem have changed over the years.

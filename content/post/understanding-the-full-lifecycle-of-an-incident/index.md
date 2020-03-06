@@ -5,6 +5,7 @@ image:
   placement: 3
 profile: false
 tags: ["incident", "lifecycle"]
+editable: true
 ---
 
 If we start to think of incidents as a normal part of a system, then we can also build some formality around the patterns and practices we inevitably see when people instinctually do what they do when something goes wrong.

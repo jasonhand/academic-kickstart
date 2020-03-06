@@ -4,6 +4,8 @@ date: 2020-03-05
 image:
   placement: 3
 profile: false
+tags: ["role", "incident"]
+editable: true
 ---
 
 The first role we need to talk about is the “Primary Responder” – the Primary “On-call” engineer.
