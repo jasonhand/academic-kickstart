@@ -87,3 +87,5 @@ place that worked or didn’t work, so you can make improvements.
 At the same time, you should remember that action items that you generate –
 reports, tasks, feedback – are useful but are peripheral to the point of the
 process, which is to learn and improve. Action items are a secondary effect.
+
+[Breaking Down the Components of a Post-incident Review](/post/breaking-down-the-components-of-a-post-incident-review/)

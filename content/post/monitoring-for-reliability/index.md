@@ -127,3 +127,5 @@ For example, you can get information about:
 -   Custom events and metrics
 
 You’ll find out more about Application Insights later in this learning path.
+
+[Sending Actionable Alerts](/post/sending-actionable-alerts/)

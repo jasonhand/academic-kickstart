@@ -37,3 +37,4 @@ into during the post-incident review process and how to avoid them.
 
 ## Trap 4: Mechanistic reasoning
 
+[Examining Attribution of Human Error](/post/examining-attribution-of-human-error/)

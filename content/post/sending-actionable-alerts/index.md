@@ -97,3 +97,5 @@ Let’s look at some elements that an actionable alert should always include:
 
 Including such helpful context will make operations practices around monitoring
 more sustainable and make responding to alerts easier.
+
+[Determining What Incidents Are](/post/determining-what-incidents-are/)

@@ -129,13 +129,4 @@ ingredients:
     “90% of HTTP requests as reported by the load balancer succeeded in the last
     30 day window.”
 
-    (Placeholder: Basic SLO recipe graphic from Slide \#94)
-
-    Similarly, a basic SLO measuring latency might look like this:
-
-    (Placeholder: Basic SLO recipe graphic from Slide \#95)
-
-    Start with simple, basic SLOs such as these when you introduce the practice
-    into your organization. You can create more complex SLOs later if needed.
-
-    (Placeholder: SLO demo video here? Or create an exercise?)
+    [Monitoring For Reliability](/post/monitoring-for-reliability/)

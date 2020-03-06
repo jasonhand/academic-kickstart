@@ -112,3 +112,5 @@ of reliability. Not all of the factors will apply in every situation. When
 considering these factors, the most important point to remember is that
 reliability has to be measured from the customer’s perspective, not the
 component perspective.
+
+[Understanding Measurements of Reliability](/post/understanding-measurements-of-reliability/)

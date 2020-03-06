@@ -8,8 +8,8 @@ tags: ["chatops", "devops", "communication", "collaboration"]
 editable: true
 ---
 
-Task: Webhook (started from Microsoft Teams) hits an Azure Function endpoint to update a static HTML (hypertext markup language) (status) page stored in Azure Storage.
+>Task: Webhook (started from Microsoft Teams) hits an Azure Function endpoint to update a static HTML (hypertext markup language) (status) page stored in Azure Storage.
 
 ## Next
 
-[Understanding the Foundations of Incident Response](/post/understanding-the-foundations-of-incident-response/)
+[Tracking Incident Details](/post/tracking-incident-details/)

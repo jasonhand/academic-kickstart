@@ -18,4 +18,4 @@ Using Logic App to create a workflow for responses (including Azure Boards, Azur
 
 ## Next steps
 
-[Managing Tasks From Group Chat - Chatops](/post/managing-tasks-from-group-chat-chatops/)
+[Updating Stakeholders](/post/updating-stakeholders/)

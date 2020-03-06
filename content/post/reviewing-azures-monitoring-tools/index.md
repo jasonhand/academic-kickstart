@@ -60,3 +60,5 @@ You can create, import, and export dashboards, using JSON files, to help you
 better visualize the data and provide you with operational awareness about all
 aspects of your Azure subscription, including reliability information. You can
 also set access controls on the dashboards and share them with others.
+
+[Breaking Down the Components of a Post-incident Review](/post/breaking-down-the-components-of-a-post-incident-review/)

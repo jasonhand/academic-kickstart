@@ -37,4 +37,4 @@ Let's touch on the detection phase just a little more in depth. This is often th
 
 ## Next steps
 
-[The Detection Phase of an Incident](/post/identifying-the-incident-detection-phase/)
+[Identifying the Detection Phase of an Incident](/post/identifying-the-incident-detection-phase/)

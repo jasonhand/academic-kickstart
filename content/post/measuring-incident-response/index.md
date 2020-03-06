@@ -32,4 +32,4 @@ Instead, we must do better at knowing when something is wrong and being able to 
 
 ## Next steps
 
-[Incident Remediation](/post/incident-remediation/)
+[Understanding Why We Learn From Incidents](/post/understanding-why-we-learn-from-incidents/)
