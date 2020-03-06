@@ -4,7 +4,7 @@ date: 2020-03-05
 image:
   placement: 3
 profile: false
-tags: ["phase", "incident"]
+tags: ["phase", "incident", "remediation"]
 editable: true
 ---
 

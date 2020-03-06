@@ -44,4 +44,4 @@ We may not have any notion of severity or impact and there is no place for us to
 
 ## Next steps
 
-[Measuring Incident Response](/post/measuring-incidents/)
+[Measuring Incident Response](/post/measuring-incident-response/)

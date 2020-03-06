@@ -36,4 +36,4 @@ Instead, we must do better at knowing when something is wrong and being able to 
 
 ## Next steps
 
-[Tracking Incident Details](/post/tracking-incident-details/)
+[Incident Remediation](/post/incident-remediation/)
