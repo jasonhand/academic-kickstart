@@ -90,3 +90,5 @@ context for your investigation.
 
 You can use information here to discover changes and find the delta between
 where you started and where you ended.
+
+[Reviewing Azure Monitoring Tools](/post/reviewing-azures-monitoring-tools/)

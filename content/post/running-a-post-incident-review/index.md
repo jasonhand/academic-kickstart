@@ -156,3 +156,5 @@ what actually happened. In addition, allowing a day or two of “soak time” wi
 result in better “synthesis,” giving your subconscious time to work on the
 issues. This will help you to identify the most “energy-efficient” repair items
 – those that require minimum energy for maximum impact.
+
+[Gathering Data for the Post-incident Review](/post/gathering-data-for-the-post-incident-review/)
