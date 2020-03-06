@@ -1,11 +1,10 @@
 ---
 title: Measuring Incident Response
 date: 2020-03-05
-math: true
-diagram: true
+profile: false
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+tags: ["incidents"]
 ---
 
 The systems we work in eventually have problems. They are built, maintained, and supported by technolgists such as yourself. And when an issue inevitably occurs, someone needs to take action to restore services.
@@ -36,4 +35,4 @@ Instead, we must do better at knowing when something is wrong and being able to 
 
 ## Next steps
 
-[Establishing On-call Roles](2020-02-25-Establishing-Oncall-Roles.html)
+[Tracking Incident Details](/post/tracking-incident-details/)

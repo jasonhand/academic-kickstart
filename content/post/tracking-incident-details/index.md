@@ -4,6 +4,7 @@ date: 2020-03-05
 image:
   placement: 3
 profile: false
+tags: ["incidents", "tracking"]
 ---
 
 Another thing we want to do, to address the challenges of Tailwind Traders and their incident response improvements is we want to be able to track:  
@@ -42,4 +43,4 @@ We may not have any notion of severity or impact and there is no place for us to
 
 ## Next steps
 
-[Measuring Incident Response](2020-02-25-Measuring-Incident-Response.html)
+[Measuring Incident Response](/post/measuring-incidents/)

@@ -4,6 +4,7 @@ date: 2020-03-05
 image:
   placement: 3
 profile: false
+tags: ["incidents", "response", "foundations"]
 ---
 
 The foundations of building reliable systems including a good incident response plan, have to start with determining “Who is expected to respond to problems?” and “How do let them know?”.
