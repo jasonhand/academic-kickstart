@@ -22,42 +22,4 @@ We can all agree that an incident is a “**service disruption**” - something 
 
 That's a given. However, there are other things about incidents that are often overlooked or never considered. For example incidents are commonly subjective, feared, and unexpected
 
-## Subjective
-
-If you ask engineers across different organizations and industries, you will get many different answers about what an incident is.
-
-Sometimes it is only when a customer is affected.
-
-Others will label disruptions as incidents even if a customer never experienced a thing.
-
-Subjectivity is an unfortunate property of incidents in a lot of cases, even when it comes to identifying severity levels.
-
-## Feared  
-
-In some cases, we downplay the significance of an outage ... or worse ... intentionally mis-label or not report a disruption in service for fear of reprimand.
-
-Historically, we have felt that incidents reflected poorly in several areas of our engineering efforts and the organization.  
-
-It has not been until more recently through many of the conversations around devops and site reliability engineering, that we are starting to rethink incidents and now view them as opportunities to learn and improve our systems.
-
-## Unexpected
-
-In other words ... unplanned Work
-
-Most of what we as engineers and technologists do is planned work.  
-
-We spend a lot of time and effort understanding the work in front of us.  
-
-We calculate story points.  We plan sprints. We have a pretty good idea on what we are supposed to be working on.
-
-So, when an incident occurs, it is disruptive. It is... unplanned work.
-
-Often, we view this as a terrible thing, but in reality, incidents are actually “investments” in supplying the value we are trying to deliver to end users.
-
-We just need to change how we look at incidents.
-
-Next we'll discuss the full lifecycle of an incident. From detection to analysis and everything in between. When we start to view incidents through a new lense and begin analyzing for opportunities to learn, you'll begin to see your systems for what they are and why having a response plan in place makes sense.
-
-## Next steps
-
-[Understanding the Full Lifecycle of An Incident](/post/understanding-the-full-lifecycle-of-an-incident)
+[Exploring Subjectivity of Incidents](/post/exploring-subjectivity-of-incidents/)

@@ -12,4 +12,4 @@ Task: Webhook (started from Microsoft Teams) hits an Azure Function endpoint to 
 
 ## Next
 
-[Remediation Phase of an Incident](/post/incident-remediation/)
+[Understanding the Foundations of Incident Response](/post/understanding-the-foundations-of-incident-response/)

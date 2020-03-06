@@ -4,7 +4,7 @@ date: 2020-03-05
 image:
   placement: 3
 profile: false
-tags: ["rotations", "on-call"]
+tags: ["rotations", "on-call", "coordination", "foundations"]
 editable: true
 ---
 
@@ -22,4 +22,4 @@ And of course, there are many ways to customize shifts, especially for weekends 
 
 ## Next steps
 
-[Remediation of Incidents](/post/remediation-of-incidents/)
+[Improving the Remediation of Incidents](/post/improving-the-remediation-of-incidents/)

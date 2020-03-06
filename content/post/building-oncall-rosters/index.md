@@ -4,7 +4,7 @@ date: 2020-03-05
 profile: false
 image:
   placement: 3
-tags: ["roster", "on-call"]
+tags: ["roster", "on-call", "coordination", "foundations"]
 editable: true
 ---
 

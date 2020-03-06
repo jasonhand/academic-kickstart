@@ -4,7 +4,7 @@ date: 2020-03-05
 image:
   placement: 3
 profile: false
-tags: ["role", "on-call"]
+tags: ["role", "on-call", "coordination", "foundations"]
 editable: true
 ---
 
@@ -30,4 +30,4 @@ Let's take a closer look at each of these roles to better understand their place
 
 ## Next steps
 
-[The Primary Responder](/post/primary-responder/)
+[Identifying the Primary Responder](/post/identifying-the-primary-responder/)

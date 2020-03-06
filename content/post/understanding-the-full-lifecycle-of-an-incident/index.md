@@ -4,7 +4,7 @@ date: 2020-03-05
 image:
   placement: 3
 profile: false
-tags: ["incident", "lifecycle"]
+tags: ["incident", "lifecycle", "foundations"]
 editable: true
 ---
 
@@ -37,4 +37,4 @@ Let's touch on the detection phase just a little more in depth. This is often th
 
 ## Next steps
 
-[The Detection Phase of an Incident](/post/incident-detection/)
+[The Detection Phase of an Incident](/post/identifying-the-incident-detection-phase/)

@@ -4,7 +4,7 @@ date: 2020-03-05
 image:
   placement: 3
 profile: false
-tags: ["chatops", "on-call"]
+tags: ["chatops", "on-call", "coordination", "foundations"]
 editable: true
 ---
 

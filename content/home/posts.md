@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Articles"
-subtitle = "The basics of building a modern incident response plan"
+title = "Principles & Practices"
+subtitle = "for modern on-call engineers"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
