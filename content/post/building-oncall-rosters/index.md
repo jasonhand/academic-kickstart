@@ -7,7 +7,7 @@ image:
 tags: ["roster", "on-call"]
 ---
 
-Rosters establish a framework around who is on-call at any given point. A roster, or team, is made up of multiple engineers. Rosters can also contain multiple rotations.
+Rosters establish a framework around who is on-call at any given point. A roster, or team, is made up of multiple engineers. Rosters can also contain multiple rotations. I'm testing out how to edit a page.
 
 ## Resources
 
