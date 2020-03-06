@@ -19,7 +19,7 @@ By identifying the incident timeline as well as the specific highlights, people 
 
 This helps isolate specific areas of improvements such as moving away from using email distribution lists as the default channel and method of delivering actionable alerts. In discussions about the detection phase, it seemed clear to everyone that the problem could have been solved sooner had they known about it sooner. Sometimes even small changes can have a huge impact on improving the overall time to recover.
 
-Regardless of how businesses choose to perform their post-incident review, they should take place no more than 36-48 hours after the incident has concluded. 
+Regardless of how businesses choose to perform their post-incident review, they should take place no more than 36-48 hours after the incident has concluded.
 
 We are looking to collect as much objective data as well as testimonial from a diverse set of perspectives. It's difficult to remember what took place in much detail after a couple of days.
 
@@ -38,5 +38,7 @@ This takes us to our final phase of the incident lifecycle, readiness.
 ## Resources
 
 [MS Learn: Improve Incident Response with Alerting in Azure](https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/)
+
+## Next Steps
 
 [Readiness Phase of an Incident](/post/incident-readiness)
