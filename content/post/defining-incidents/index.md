@@ -1,5 +1,5 @@
 ---
-title: Determining What Incidents Are
+title: Defining Incidents
 date: 2020-03-05
 image:
   placement: 3

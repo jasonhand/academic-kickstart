@@ -30,7 +30,7 @@ review, you should consider what it’s *not.*
 -   **It’s not a determination of causality.** Your review will look at the
     factors that contributed to the failure, but the purpose isn’t to pinpoint a
     culprit. It’s to think about and share information about all aspects of the
-    incident so as learn and improve.
+    incident in order to learn and improve.
 
 -   **It’s not a list of action items.** You may end up with such a list as a
     result of what you learn in the review, but this isn’t the focus. If you
