@@ -37,6 +37,3 @@ In this unit, you’ll start thinking about not only why but also how you can be
 learn from incidents, and we’ll expand on the “how” in subsequent units.
 
 [Understanding How Complex Systems Fail](/post/understanding-how-complex-systems-fail/)
-
-
-

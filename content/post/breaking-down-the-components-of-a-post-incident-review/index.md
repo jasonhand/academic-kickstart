@@ -87,4 +87,4 @@ These “4 Ds” create a framework on which you can build a post-incident learn
 review that can result in more reliable systems and more productive teams that
 work together.
 
-[Home](/)
+[Running a Post-incident Review](/post/running-a-post-incident-review/)

@@ -1,5 +1,5 @@
 ---
-title: Measurements of Reliability
+title: Understanding the Measurements of Reliability
 date: 2020-03-05
 profile: false
 image:
@@ -96,8 +96,6 @@ measurement: *Reliability should be measured from the customer’s perspective.*
 Thus, most of the time, you should measure at the point that most accurately
 reflects the customer’s experience.
 
-(Placeholder: SLI demo video here? Or create an exercise?)
-
 ## Service Level Objectives
 
 Now you know how to measure reliability using SLIs, but the ratios and
@@ -129,4 +127,4 @@ ingredients:
     “90% of HTTP requests as reported by the load balancer succeeded in the last
     30 day window.”
 
-    [Monitoring For Reliability](/post/monitoring-for-reliability/)
+[Monitoring For Reliability](/post/monitoring-for-reliability/)
