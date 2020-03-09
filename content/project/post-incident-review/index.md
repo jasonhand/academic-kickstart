@@ -1,6 +1,6 @@
 ---
-title: Site Reliability Engineering
-summary: An example of using the in-built project page.
+title: Post-incident Review
+summary: Foundations of a post-incident review
 tags:
 - Devops
 date: "2016-04-27T00:00:00Z"
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/jasonhand
 url_code: ""
 url_pdf: ""
 url_slides: ""
