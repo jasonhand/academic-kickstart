@@ -12,4 +12,4 @@ editable: true
 
 ## Next
 
-[Tracking Incident Details](/post/tracking-incident-details/)
+[Establishing Communications Channel](/post/establishing-communications-channel/)

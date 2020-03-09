@@ -22,4 +22,4 @@ And of course, there are many ways to customize shifts, especially for weekends 
 
 ## Next steps
 
-[Improving the Remediation of Incidents](/post/improving-the-remediation-of-incidents/)
+[Tracking Incident Details](/post/tracking-incident-details/)

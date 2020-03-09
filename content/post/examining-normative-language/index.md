@@ -27,4 +27,4 @@ available* to those who made the decisions and judgments.
 The problem with normative thinking is that you neglect to understand how the
 actions of the operators made sense to them at the time.
 
-[Running a Post-incident Review](/post/running-a-post-incident-review/)
+[Home](/)

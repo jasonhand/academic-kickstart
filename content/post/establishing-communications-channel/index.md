@@ -12,10 +12,6 @@ To address some of the challenges around how we communicate we also want to find
 
 We want a channel that is unique to the incident only. We do not want conversations about other engineering efforts.We don’t want conversations about what people are doing for lunch. We ONLY want conversations related to the incident. Because then we can take that text (or data) and analyze later in a Post-incident review.
 
-Using Logic App to create a workflow for responses (including Azure Boards, Azure Storage, Microsoft Teams)
-
->Task: Using Logic Apps
-
 ## Next steps
 
-[Updating Stakeholders](/post/updating-stakeholders/)
+[Understanding Why We Learn From Incidents](/post/understanding-why-we-learn-from-incidents/)
