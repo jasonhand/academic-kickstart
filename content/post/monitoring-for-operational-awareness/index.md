@@ -4,7 +4,7 @@ date: 2020-03-05
 profile: false
 image:
   placement: 3
-tags: ["monitoring", "reliability", "awareness"]
+tags: ["monitoring", "reliability"]
 editable: true
 ---
 

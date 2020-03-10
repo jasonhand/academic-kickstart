@@ -12,4 +12,4 @@ Rosters establish a framework around who is on-call at any given point. A roster
 
 ## Next steps
 
-[Establishing On-call Rotations](/post/building-oncall-rotations/)
+[Establishing On-call Rotations](/post/establishing-oncall-rotations/)
