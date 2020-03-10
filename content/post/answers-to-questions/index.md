@@ -14,4 +14,4 @@ This is a live site with new information added regularly.
 
 Begin, by examining why the responsibilities of on-call have become so critical to nearly every business, group, and government.
 
-[Examinging All Aspects of Reliability](/post/examining-all-aspects-of-reliability/)
+[Monitoring For Reliability](/post/monitoring-for-reliability/)

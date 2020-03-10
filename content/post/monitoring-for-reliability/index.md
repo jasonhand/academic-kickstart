@@ -23,4 +23,5 @@ evaluate and improve reliability.
 Monitoring provides the information on which the concepts of site reliability
 engineering rests.
 
-[Sending Actionable Alerts](/post/sending-actionable-alerts/)
+[Examinging All Aspects of Reliability](/post/examining-all-aspects-of-reliability/)
+
