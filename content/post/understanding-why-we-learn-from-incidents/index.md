@@ -33,7 +33,6 @@ ways to approach the process, and too much focus on certain aspects of the
 problem or framing questions in the wrong way can reduce the value of the
 review.
 
-In this unit, you’ll start thinking about not only why but also how you can best
-learn from incidents, and we’ll expand on the “how” in subsequent units.
+We want to now explore the best path towards generating actionable introspection about the systems we co-create.
 
 [Understanding How Complex Systems Fail](/post/understanding-how-complex-systems-fail/)

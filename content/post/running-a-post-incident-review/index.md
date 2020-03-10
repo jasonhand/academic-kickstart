@@ -8,6 +8,8 @@ tags: ["incident", "analysis"]
 editable: true
 ---
 
+We want to develop a sense making approach to the present situation in order to act upon it better in the future... in the moment.
+
 There are different ways to conduct a useful post-incident review, but there are
 some common practices that can make the process easier and more effective. If
 you run a facilitated review meeting, keep your review and planning meetings

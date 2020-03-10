@@ -1,6 +1,6 @@
 ---
-title: Monitoring
-summary: Foundations of monitoring
+title: 5. Readiness
+summary: Foundations of a post-incident review
 tags:
 - Devops
 date: "2016-04-27T00:00:00Z"
@@ -12,15 +12,6 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/jasonhand
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

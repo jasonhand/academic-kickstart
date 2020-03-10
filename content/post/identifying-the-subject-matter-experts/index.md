@@ -12,4 +12,4 @@ It’s quite common within on-call rosters to identify subject matter experts, s
 
 ## Next steps
 
-[Building On-call Rosters](/post/building-oncall-rosters)
+[Establishing On-call Rosters](/post/building-oncall-rosters)

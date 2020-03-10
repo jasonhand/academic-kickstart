@@ -12,4 +12,4 @@ editable: true
 
 ## Next
 
-[Establishing Communications Channel](/post/establishing-communications-channel/)
+[Understanding Why We Learn From Incidents](/post/understanding-why-we-learn-from-incidents/)

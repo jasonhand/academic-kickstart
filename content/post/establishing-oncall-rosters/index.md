@@ -1,5 +1,5 @@
 ---
-title: Building On-call Rosters
+title: Establishing On-call Rosters
 date: 2020-03-05
 profile: false
 image:
@@ -12,4 +12,4 @@ Rosters establish a framework around who is on-call at any given point. A roster
 
 ## Next steps
 
-[Building On-call Rotations](/post/building-oncall-rotations/)
+[Establishing On-call Rotations](/post/building-oncall-rotations/)

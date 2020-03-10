@@ -1,5 +1,5 @@
 ---
-title: Building On-call Rotations
+title: Establishing On-call Rotations
 date: 2020-03-05
 image:
   placement: 3
