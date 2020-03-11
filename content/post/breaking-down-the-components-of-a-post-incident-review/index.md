@@ -54,7 +54,7 @@ Frame your questions to reflect this:
 “What was the deficit in your monitoring that failed to give the person at the
 keyboard the necessary context to make the right decision?”
 
-“Why was there a **nuke the entire database** option in the tool that didn’t ask
+“Why was there a **delete the entire database** option in the tool that didn’t ask
 for confirmation?”
 
 When things go wrong, it can be tempting to point fingers. However, you must
