@@ -6,12 +6,21 @@ image:
   placement: 3
 tags: []
 editable: true
+profile: true
 ---
+
+## What Is This?
 
 This site is dedicated to providing foundational concepts and information related to being on-call including monitoring, incident response, and the post-incident review process.
 
 This is a live site with new information added regularly.
 
+## How Do I Use This?
+
 Begin, by examining why the responsibilities of on-call have become so critical to nearly every business, group, and government.
 
 [Monitoring For Reliability](/post/monitoring-for-reliability/)
+
+## Who Is Behind This?
+
+[Jason Hand - @jasonhand](https://twitter.com/jasonhand)
