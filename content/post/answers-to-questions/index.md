@@ -15,7 +15,7 @@ This site is dedicated to providing foundational concepts and information relate
 
 This is a live site with new information added regularly. Much of the content is syndicated from presentations created for and delivered during Microsoft's Ignite the Tour.
 
-Throughout these articles, demonstrations and resources specific to Azure will be used, but the foundations of monitoring, incident response, and retrospectives are agnostic to tooling. Demonstrations on Azure is done to illustrate rather than to suggest an *"best practice"* implementation.
+Throughout these articles, demonstrations and resources specific to Azure will be used, but the foundations of monitoring, incident response, and retrospectives are agnostic to tooling. Demonstrations on Azure is done to illustrate rather than to suggest *"best practice"* implementations.
 
 ## How Do I Use This?
 
