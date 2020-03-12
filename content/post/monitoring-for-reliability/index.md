@@ -8,20 +8,21 @@ tags: ["monitoring", "reliability"]
 editable: true
 ---
 
-A reasonable level of operational awareness is necessary to effectively monitor for reliability. Monitoring tools can help measure and improve reliability in
-your organization.
+The world today is extremely connected.
 
-You now have an expanded concept of what reliability is. Next, you need to learn
-about the role monitoring plays in reaching your reliability goals.
+Digital services have become so embedded in our daily lives that when when unavailable to us it often has an adverse effect on our own livelihoods. Like electricity and running water, we don't ralize our reliance on it until it's suddenly unavailable.
 
-Monitoring is a systematic and routine collection of information about
-activities, events, and statuses that you can use to improve practices and make
-informed decisions. In the IT world, we use monitoring for many purposes: to
-gauge performance, to assess security, and in the context of this module, to
-evaluate and improve reliability.
+## Monitoring
 
-Monitoring provides the information on which the concepts of site reliability
-engineering rests.
+Monitoring is a way of collecting information about what is going on in your systems so you can improve things as well as make objectively
+informed decisions.
+
+Many aspects of a system can be monitored. From the component level (CPU, Memory) to business impact and everything in between. We might gauge performance, examine security, or (in our case) evaluate and improve reliability.
+
+## Reliability
+
+When monitoring for reliability, we are trying to proactively manage not only the availability of a service, but many aspects of reliability.
+
+Depending on the service and the expectations of the end user some aspects of reliability may be more valuable than others.
 
 [Examinging All Aspects of Reliability](/post/examining-all-aspects-of-reliability/)
-

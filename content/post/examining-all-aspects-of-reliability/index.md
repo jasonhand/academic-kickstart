@@ -8,25 +8,16 @@ tags: ["reliability"]
 editable: true
 ---
 
-There are eight important components that go into determining the reliability of
-a system, service, application, or process. Consider whether and how each of
-these is applicable in evaluating and improving the reliability of your systems
-and services. Keep in mind, however, that reliability should always be measured
-from the customer’s perspective, not the component perspective.
+There are many ways to monitor for reliability because there are many aspects to reliability. It's important to examine the reliability of your service from the user's perspective.
 
-Raising your operational awareness and establishing a baseline of reliable
-performance helps you to set expectations and recognize deviations from the
-norm. After you establish a baseline, you can compare current performance to the
-baseline statistics.
+## What Does Reliability Mean to th Customer
 
-To create a baseline, you need to consider the many aspects of reliability that
-combine to make up a person’s expectations. Some of these will apply to
-particular applications and services but not to others. In all of these cases,
-your goal is to understand and work with people’s expectations.
+What does reliability mean to your user?
 
-The important takeaway from this unit is this expanded idea of what reliability
-means to your customers or internal users. Following are eight important aspects
-of reliability to consider as you create your baseline.
+There are many ingredients in determining the reliability of
+a system, service, application, or process.
+
+The following eight aspects of reliability might be a good place to start when creating a baseline of your app, service, process, or whatever it is you are measuring for reliability.
 
 - Availability
 - Latency
@@ -37,5 +28,8 @@ of reliability to consider as you create your baseline.
 - Freshness
 - Durability
 
-[Exploring the Availability Aspect of Reliability](/post/exploring-the-availability-aspect-of-reliability/)
+## Establish a Baseline
 
+Establishing a baseline of reliable performance helps set expectations and recognize deviations from what you might call "normal". Once you have a baseline, you can do a comparison.
+
+[Exploring the Availability Aspect of Reliability](/post/exploring-the-availability-aspect-of-reliability/)
