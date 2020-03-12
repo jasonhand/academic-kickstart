@@ -10,14 +10,9 @@ editable: true
 
 There are many ways to monitor for reliability because there are many aspects to reliability. It's important to examine the reliability of your service from the user's perspective.
 
-## What Does Reliability Mean to th Customer
+## What Does Reliability Mean to the User?
 
-What does reliability mean to your user?
-
-There are many ingredients in determining the reliability of
-a system, service, application, or process.
-
-The following eight aspects of reliability might be a good place to start when creating a baseline of your app, service, process, or whatever it is you are measuring for reliability.
+To determine the reliability of a system, service, application, or process many look to the following eight aspects of reliability.
 
 - Availability
 - Latency

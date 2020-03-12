@@ -8,7 +8,7 @@ tags: ["reliability", "availability"]
 editable: true
 ---
 
->Can people reach a website or service?
+**Can people reach a website or service?**
 
 This is typically the first thing people think of when talking about reliability. Can "the thing" be reached (and used) when expected?
 
@@ -24,7 +24,7 @@ We could also examine logs that tell us in aggregate what the customer is experi
 
 Answering those questions gives a more accurate picture of the availability of your service. Just because everything appears to be working, does not mean that is what your user is seeing.
 
-You can't always do something about availability these days. The number of hops between a website and a person's mobile device is astounding. Failure could happen at any point between them.
+You can't always do something about availability. The number of hops between a website and a person's mobile device is astounding. Failure could happen at any point between them.
 
 The closer we can measure that experience from their perspective, the better off we'll be in measuring our availability.
 

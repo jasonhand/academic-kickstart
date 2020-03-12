@@ -13,7 +13,11 @@ order to be helpful, they must be properly constructed for situations that
 warrant immediate human attention, and they should be devised with simplicity,
 scope, and context in mind.
 
-In this module, you have learned how to monitor and interact with indicators of
+Preferences on how alerts are delivered can be designed using [Action Groups](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups/?wt.mc_id=oncalllife-blog-jahand) in Azure.
+
+![Action Group](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/media/action-groups/action-group-define.png)
+
+You have learned how to monitor and interact with indicators of
 the reliability of your systems and create reliability goals, but there is also
 an important way by which reliability interacts with you. That’s through Azure
 Monitor’s log alerts feature.
