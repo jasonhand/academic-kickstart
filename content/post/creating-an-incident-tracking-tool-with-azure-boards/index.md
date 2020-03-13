@@ -68,9 +68,9 @@ We will use this new project for all incident tracking leaving the original proj
 
 Let's check to see if our new work item type is available. Return to Azure Boards.
 
-8. Click the + New Work Item option
+**8.** Click the **+ New Work Item** option
 
-You'll now see an additional work item type of "incident".
+You'll now see an additional work item type of "**incident**".
 
 ![](see-new-work-item-type.png)
 

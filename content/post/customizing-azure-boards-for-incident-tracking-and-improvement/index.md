@@ -8,7 +8,7 @@ tags: ["incidents", "tracking", "azure", "boards"]
 editable: true
 ---
 
-Now that we have a place to collaborate over incidents, we need to ensure we are tracking all of the important aspects. Such as:
+Now that we have [created an incident tracking tool with Azure Boards](/post/creating-an-incident-tracking-tool-with-azure-boards/), we need to ensure we are tracking all of the important aspects. Such as:
 
 - "When did we know about the problem?"
 - "How did we learn of the problem?"
