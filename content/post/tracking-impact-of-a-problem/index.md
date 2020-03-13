@@ -16,4 +16,9 @@ There are many people who care about how things are going during an incident. We
 
 Regardless to if a severity level is assigned, it's important to capture what impact the customer is experiencing. What additional failures might we expect? Being transparent around what is known to be impacted from what is known about the problem allows and empowers others to take action to mitigate or minimize downstream affects.
 
-One way of making sure clear and transparent information is shared is by [Establishing Communication Channels](/post/measuring-incident-response/) that are to be used during and after an incident.
+There are great tools out there for tracking the details of incidents. Pagerduty, VictorOps and others have services specifically designed for this.
+
+Under the surface, they are similar to ticketing systems or project tracking tools such as Jira and Azure Boards.
+
+Next, I'll show you how [Creating an incident tracking tool with Azure Boards](/post/creating-an-incident-tracking-tool-with-azure-boards/) can be done in just a few steps for **free**.
+
