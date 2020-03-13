@@ -23,12 +23,13 @@ They are made up of the names and contact information of everyone expected to ta
 
 Depending on the make up of your teams and services, on-call rosters can remain quite simple or become extremely complex.
 
-One simple way of creating an on-call roster to look up and contact individuals in response to a service disruption is with a basic storage table in Azure.
+One way of creating an on-call roster is with a basic storage table in Azure.
 
-{{% alert note %}}
-If you don't already have a [free Azure account, grab one here](https://azure.microsoft.com/?wt.mc_id=oncalllife-blog-jahand).
+## Setup
+
+{{% alert warning %}}
+First, login or create a [free Azure account](https://azure.microsoft.com/?wt.mc_id=oncalllife-blog-jahand).
 {{% /alert %}}
-
 
 **1.** Create a new resource
 From the home screen in Azure, select the option to **create a resource**.
@@ -62,12 +63,18 @@ The **PartitionKey** field will remain the same. Add new properties for **name**
 
 ![](add-table-entity.png)
 
-**10.** Repeat the process for new entities
+**10.** Repeat the process for new entities. 
 Make sure to use the same PartitionKey but a unique rowkey. Also be sure to use true or false for the oncall field.
 
 After a couple of entries, it should look as follows.
 ![](on-call-table-entries.png)
 
 That's it. You've taken your first steps towards building a basic on-call roster. This will help us identify who to initially alert when an incident occurs.
+
+{{% alert note %}}
+This example roster tracks only the "**Primary Responder**" (i.e. `oncall=true or false`). It doesn't include any alternative contact information. Nor does it identify what rotations someone is associated with.
+<br /><br />
+Try expanding your roster to contain more of the roles previously discussed.
+{{% /alert %}}
 
 Next, we will take a look at [Establishing On-call Rotations](/post/establishing-oncall-rotations/)
