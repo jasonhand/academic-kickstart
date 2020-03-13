@@ -34,4 +34,4 @@ In conversations about what took place with the payment processor incident it is
 
 ## Next steps
 
-[Identifying the Incident Response Phase of an Incident](/post/identifying-the-incident-response-phase/)
+[Identifying the Response Phase of an Incident](/post/identifying-the-incident-response-phase/)

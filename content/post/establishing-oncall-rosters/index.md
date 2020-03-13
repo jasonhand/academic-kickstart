@@ -12,4 +12,6 @@ Rosters establish a framework around who is on-call at any given point. A roster
 
 ## Next steps
 
-[Establishing On-call Rotations](/post/establishing-oncall-rotations/)
+[Creating an on-call roster using Azure Table Storage](/post/creating-an-oncall-roster-using-azure-table-storage/)
+
+
