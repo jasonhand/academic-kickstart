@@ -8,6 +8,8 @@ tags: ["on-call", "alerts", "foundations"]
 editable: true
 ---
 
+>"An alert is something which requires a human to perform an action." - Pagerduty ["Alerting Principles"](https://response.pagerduty.com/oncall/alerting_principles/)
+
 To understand why alerting can create a problem, you need to think about the purpose of alerts and how they differ from other monitoring components.
 
 Actionable alerts are *not*:

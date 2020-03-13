@@ -24,4 +24,8 @@ When monitoring for reliability, we are trying to proactively manage not only th
 
 Depending on the service and the expectations of the end user, some aspects of reliability may be more valuable than others.
 
-[Examinging All Aspects of Reliability](/post/examining-all-aspects-of-reliability/)
+{{% alert note %}}
+**Exercise:** <br /> Discuss and document perceived expectations users have regarding the reliability of your service?
+{{% /alert %}}
+
+To determine what to monitor, continue with  [Examinging All Aspects of Reliability](/post/examining-all-aspects-of-reliability/)

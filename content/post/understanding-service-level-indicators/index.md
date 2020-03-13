@@ -6,6 +6,8 @@ image:
   placement: 3
 tags: ["measurements", "reliability", "sli", "service"]
 editable: true
+math: true
+latex: true
 ---
 
 [Site Reliability Engineering](https://docs.microsoft.com/en-us/azure/site-reliability-engineering/?wt.mc_id=oncalllife-blog-jahand) uses SLIs and SROs to measure the aspects of reliability that you learned about in Unit 2: availability, latency, throughput, coverage, correctness, fidelity, freshness, and durability, and whether you are
@@ -21,7 +23,23 @@ How would you determine the availability of a web server?
 
 You can do this by measuring the number of HTTP calls the server received and the number to which it successfully responded. This ratio of successful calls to total calls gives you an understanding of the server’s reliability. Multiplying the ratio by 100 gives you a percentage.
 
-For example, if the ratio is 0.5 and you multiply by 100, you can conclude that the web server has been available only 50% of the time.
+$$
+\ [\frac {success}{total}\] = ratio
+$$ 
+
+example
+
+$$
+\ [\frac {800}{1000}\] = .8
+$$
+
+For example, if the ratio is 0.8 and you multiply by 100, you can conclude that the web server has been available only 80% of the time.
+
+or
+
+$$
+\ .8 * 100 = 80 percent
+$$
 
 **Example \#2: Measure latency**
 
