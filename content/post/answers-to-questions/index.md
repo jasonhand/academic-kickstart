@@ -11,7 +11,7 @@ profile: true
 
 ## What Is This?
 
-This site is dedicated to providing foundational concepts and information related to being on-call including monitoring, incident response, and the post-incident review process.
+**On-call Life** is dedicated to providing foundational concepts and information related to being on-call including monitoring, incident response, and the post-incident review process.
 
 This is a live site with new information added regularly. Much of the content is syndicated from presentations created for and delivered during Microsoft's Ignite the Tour.
 
