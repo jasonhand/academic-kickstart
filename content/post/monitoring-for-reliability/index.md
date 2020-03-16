@@ -10,7 +10,7 @@ editable: true
 
 The world today is extremely connected.
 
-Digital services have become so embedded in our daily lives that when they become unavailable, it often has an adverse effect on our own livelihoods. Like electricity and running water, we don't ralize our reliance on it until it's suddenly unavailable.
+Digital services have become so embedded in our daily lives that when they become unavailable, it often has an adverse effect on our own livelihoods. Like electricity and running water, we don't realize our reliance on it until it's suddenly unavailable.
 
 ## Monitoring
 

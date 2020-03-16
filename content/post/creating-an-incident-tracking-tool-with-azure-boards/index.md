@@ -86,5 +86,5 @@ However, the default settings only provide us a few important things that we wan
 
 We can easily add and modify fields within Azure Boards to allow for tracking additional details we know are important to our incident response efforts.
 
-Now, let's talk about ways of [Customizing Azure Boards for Incident Tracking and Improvement](/post/customizing-azure-boards-for-incident-tracking-and-improvement/)
+Now, let's talk about ways of [Customizing Azure Boards for Incident Tracking](/post/customizing-azure-boards-for-incident-tracking/)
 
