@@ -66,7 +66,5 @@ Unfortunately, there is not a universally “correct” answer. It’s a decisio
 The key thing to keep in mind is based on our “prime directive” of reliability measurement: *Reliability should be measured from the customer’s perspective.*
 Thus, most of the time, you should measure at the point that most accurately reflects the customer’s experience.
 
-{{< youtube Ds_7EKMS3N8 >}}
-<br />
+[Building Service Level Indicators (SLIs) with Log Analytics](/post/building_service_level_indicators_with_log_analytics/)
 
-[Understanding Service Level Objectives (SLOs)](/post/understanding-service-level-objectives/)

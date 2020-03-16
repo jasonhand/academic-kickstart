@@ -8,8 +8,10 @@ tags: ["chatops", "devops", "communication", "collaboration"]
 editable: true
 ---
 
->Task: Webhook (started from Microsoft Teams) hits an Azure Function endpoint to update a static HTML (hypertext markup language) (status) page stored in Azure Storage.
+Chatops is the use of tools from within a group chat tool.
 
-## Next
+One great example of Chatops is when engineers can update important information regarding an incident to a broader audience, possibly even to affected users.
 
-[Understanding Why We Learn From Incidents](/post/understanding-why-we-learn-from-incidents/)
+Allowing people to quickly update stakeholders by typing a few quick commands from within the same environment as the related conversations has a number of clear benefits.
+
+Let's take a look at [Building a Serverless Status Page Solution with Azure Functions, blob storage, and Microsoft Teams](/post/building_a_serverless_status_page_solution/) to illustrate.
