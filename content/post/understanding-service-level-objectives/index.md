@@ -37,4 +37,4 @@ ingredients:
     “90% of HTTP requests as reported by the load balancer succeeded in the last
     30 day window.”
 
-[Building Service Level Objectives with Log Analytics](/post/building_service_level_objectives_with_log_analytics/)
+[Building Service Level Objectives with Log Analytics](/post/building-service-level-objectives-with-log-analytics/)

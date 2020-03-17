@@ -74,8 +74,8 @@ You'll also see the new fields that we have added (Time to detection, source of 
 
 This should be a good place to start capturing information that will be helpful and important to analyze in a post-incident review later.
 
-With the information tracked in Azure Boards along with the conversations taking place in Microsoft Teams we will have a lot of great data to analyze.
+With the information tracked in Azure Boards along with the conversations taking place in Microsoft Teams we will have a lot of great data to analyze. 
 
-It's important to make sure teams are communicating well and clearly during the response to an incident. 
+From that analysis we will measure and establish baselines and expectations around incident response.
 
-One way of making sure clear and transparent information is shared to others is by [Establishing Communication Channels](/post/measuring-incident-response/) that are to be used during and after an incident.
+It's important when [Measuring Incident Response](/post/measuring-incident-response/) that we discuss what is helpful and what is not.
