@@ -8,7 +8,7 @@ When changes are made to the master branch of this repo, Netlify builds the site
 
 ## Where content is stored
 
-All content is stored in the [`content`](content/)  folder. There are two primary folders. 
+All content is stored in the [`content`](/content/)  folder. There are two primary folders. 
 
 Most of the existing content is stored in `content/post` but there are a few in `content/project`. 
 
