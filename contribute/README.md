@@ -1,24 +1,25 @@
 # Contributing
 
-Pull requests are appreciated.
-
 On-call life is a Hugo site using the Academic theme.
 
 When changes are made to the master branch of this repo, Netlify builds the site and pushes the static HTML and associated files to [https://oncall.life](https://oncall.life)
 
+1. Clone this repo
+`git clone https://github.com/jasonhand/academic-kickstart.git`
+
 ## Where content is stored
 
-All content is stored in the [`content`](/content/)  folder. There are two primary folders. 
+All content is stored in the [`content`](/content/)  folder. There are two secondary folders in there that we'll mostly be using.
 
-Most of the existing content is stored in [`content/post`](/content/post/) but there are a few in [`content/project`](/content/project/). 
+Most of the existing content is stored in [`content/post`](/content/post/) but there are a few in [`content/project`](/content/project/).
 
 Those are the "Phases of an Incident" Section of the site (*Detection, Response, Remediation, Analysis, Readiness*)
 
 ## Creating a NEW post
 
-1. Create a new directory inside `post` using the nameing convention: `this-is-my-post` where the text exactly matches the title of the article separated by hyphens.
-2. Create a new file inside the newly created directory named `index.md`.
-3. Add the following header.
+1. Create a **new directory** inside [`content/post`](/content/post/) using the naming convention: `this-is-my-post` where the text exactly matches the title of the article separated by hyphens.
+2. Create a **new file** inside the newly created directory named `index.md`.
+3. Add the following **header**.
 
 ```markdown
 ---
