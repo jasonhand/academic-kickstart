@@ -13,4 +13,4 @@ This repo contains work on the following projects:
 
 ## Contributing
 
-- [README](themes/academic/.github/contributing.md)
+- [README](contribute/README.md)
