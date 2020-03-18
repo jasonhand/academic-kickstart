@@ -10,7 +10,7 @@ When changes are made to the master branch of this repo, Netlify builds the site
 
 All content is stored in the [`content`](/content/)  folder. There are two primary folders. 
 
-Most of the existing content is stored in `content/post` but there are a few in `content/project`. 
+Most of the existing content is stored in [`content/post`](/content/post/) but there are a few in [`content/project`](/content/project/). 
 
 Those are the "Phases of an Incident" Section of the site (*Detection, Response, Remediation, Analysis, Readiness*)
 
@@ -42,7 +42,7 @@ Once I have reviewed the pull request and merged the new content, Hugo will buil
 ## Editing an existing post
 
 **Method 1: (Direct on Github)**
-1. Click on the **Edit this page** link at the bottom of the article
+1. Click on the **Edit this page** link **at the bottom of the article**
 2. Edit and commit changes directly on Github
 ![](https://jhandcdn.blob.core.windows.net/blob/edit-post.gif)
 
