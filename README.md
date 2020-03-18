@@ -10,3 +10,7 @@ This repo contains work on the following projects:
 
 - [ ] Add links to tour content
 - [ ] Add link shortener component
+
+## Contributing
+
+- [README](themes/academic/.github/contributing.md)
