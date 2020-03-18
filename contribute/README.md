@@ -8,7 +8,7 @@ When changes are made to the master branch of this repo, Netlify builds the site
 
 ## Where content is stored
 
-All content is stored in the `content` folder. There are two primary folders. 
+All content is stored in the [`content`](content/)  folder. There are two primary folders. 
 
 Most of the existing content is stored in `content/post` but there are a few in `content/project`. 
 
@@ -44,7 +44,7 @@ Once I have reviewed the pull request and merged the new content, Hugo will buil
 **Method 1: (Direct on Github)**
 1. Click on the **Edit this page** link at the bottom of the article
 2. Edit and commit changes directly on Github
-![](contribute/edit-post.gif)
+![](https://jhandcdn.blob.core.windows.net/blob/edit-post.gif)
 
 **Method 2: (Local Dev Env)**
 1. Navigate to the `index.md` file associated with the post and edit/save
