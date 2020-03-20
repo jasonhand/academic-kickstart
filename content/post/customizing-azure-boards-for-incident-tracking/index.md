@@ -8,7 +8,7 @@ tags: ["incidents", "tracking", "azure", "boards"]
 editable: true
 ---
 
-Now that we have [created an incident tracking tool with Azure Boards](/post/creating-an-incident-tracking-tool-with-azure-boards/), we need to ensure we are tracking all of the important aspects. Such as *When did we know about the problem* and more.
+Now that we have [a tool to track the incident details](/post/creating-an-incident-tracking-tool-with-azure-boards/), we need to ensure we are tracking all of the important aspects. Such as *When did we know about the problem* and more.
 
 Let's now take a look at how we can customize Azure Boards to track additional incident details.
 
@@ -74,8 +74,8 @@ You'll also see the new fields that we have added (Time to detection, source of 
 
 This should be a good place to start capturing information that will be helpful and important to analyze in a post-incident review later.
 
-With the information tracked in Azure Boards along with the conversations taking place in Microsoft Teams we will have a lot of great data to analyze. 
+With the information tracked in Azure Boards along with the conversations taking place in Microsoft Teams we will have a lot of great data to analyze.
 
 From that analysis we will measure and establish baselines and expectations around incident response.
 
-It's important when [Measuring Incident Response](/post/measuring-incident-response/) that we discuss what is helpful and what is not.
+It's important to discuss [measuring incident response](/post/measuring-incident-response/) now. However, on our path to continuous improvement there are certain traps we want to avoid when examining incidents, especially in aggregate.

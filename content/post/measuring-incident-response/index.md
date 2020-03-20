@@ -8,7 +8,11 @@ tags: ["incidents"]
 editable: true
 ---
 
-The systems we work in eventually have problems. They are built, maintained, and supported by technolgists such as yourself. And when an issue inevitably occurs, someone needs to take action to restore services.
+The systems we work in eventually have problems.
+
+They are built, maintained, and supported by technolgists such as yourself. And when an issue inevitably occurs, someone needs to take action to restore services.
+
+Responding to those problems helps maintain functionality and operational abilities of an organization's IT services, serving both internal and external users.
 
 Many organizations don't currently have an incident response plan in place. In fact, efforts to recover from service disruptions rarely follow any kind of repeatable and measured framework at all. Engineers react rather than respond.
 
