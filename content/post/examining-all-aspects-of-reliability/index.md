@@ -32,3 +32,5 @@ Once it is determined which aspects to measure and how, we can begin understandi
 Establishing a baseline of reliable performance helps set expectations and recognize deviations from what you might call "normal". Once you have a baseline, you can do a comparison.
 
 [Exploring the Availability Aspect of Reliability](/post/exploring-the-availability-aspect-of-reliability/)
+
+>NOTE: Look in to "The Golden Signals" - Jason Hand
