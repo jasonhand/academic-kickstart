@@ -24,7 +24,6 @@ jobs:
           hugo-version: "latest"
       - name: Build
         run: hugo
-    
         - name: Build And Deploy
         id: builddeploy
         uses: joslinmicrosoft/staticsitesactionoryx@canary3
