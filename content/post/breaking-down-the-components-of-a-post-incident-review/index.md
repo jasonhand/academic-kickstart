@@ -22,17 +22,17 @@ process.
 Before you can understand the characteristics that make for a good post-incident
 review, you should consider what it’s *not.*
 
--   **It’s not a document or report.** It’s easy to think of a “review” as a
+- **It’s not a document or report.** It’s easy to think of a “review” as a
     written summary, and indeed, a summary report often follows a post-incident
     review. However, these are two different and distinct parts of the Analysis
     phase of the incident response lifecycle.
 
--   **It’s not a determination of causality.** Your review will look at the
+- **It’s not a determination of causality.** Your review will look at the
     factors that contributed to the failure, but the purpose isn’t to pinpoint a
     culprit. It’s to think about and share information about all aspects of the
     incident in order to learn and improve.
 
--   **It’s not a list of action items.** You may end up with such a list as a
+- **It’s not a list of action items.** You may end up with such a list as a
     result of what you learn in the review, but this isn’t the focus. If you
     don’t come away with a stepwise punch list but you do know more about your
     systems than before, the review was successful.
@@ -75,13 +75,13 @@ that mix of perspectives is invaluable to the learning process.
 A post-incident review is an honest inquiry. As such, it embraces these key
 components:
 
--   Discussion
+- Discussion
 
--   Discourse
+- Discourse
 
--   Dissent
+- Dissent
 
--   Discovery
+- Discovery
 
 These “4 Ds” create a framework on which you can build a post-incident learning
 review that can result in more reliable systems and more productive teams that
