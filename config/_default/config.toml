@@ -8,7 +8,7 @@
 title = "On Call Life"
 
 # The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://oncall.life/`.
+# End your URL with a `/` trailing slash, e.g. `https://white-cliff-012ff5404.staticsitescanary.net/`.
 baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
